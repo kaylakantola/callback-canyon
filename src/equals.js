@@ -8,7 +8,7 @@
  *
  * @returns boolean
  */
-const equals = function(a, b) {
+function equals(a, b) {
   return a === b
 }
 
